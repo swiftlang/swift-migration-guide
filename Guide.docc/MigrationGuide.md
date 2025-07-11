@@ -72,6 +72,7 @@ For more information, see the [contributing][] document.
 - <doc:Swift6Mode>
 - <doc:CommonProblems>
 - <doc:IncrementalAdoption>
+- <doc:FeatureMigration>
 - <doc:SourceCompatibility>
 - <doc:LibraryEvolution>
 
