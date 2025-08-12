@@ -12,7 +12,7 @@ See <doc:Swift6Mode> for further details and specifics about enabling and using 
 ## For an existing Swift project
 
 For an existing Swift project prior to Swift 6, use [SwiftSetting.enableUpcomingFeature](https://docs.swift.org/swiftpm/documentation/packagedescription/swiftsetting/enableupcomingfeature(_:_:)) to enable the feature `StrictConcurrency` on the `swiftSettings` property of the target.
-Apply the setting for the targets you for which you want to enable data race safety checking.
+Apply the setting for the targets for which you want to enable data race safety checking.
 
 For example, a target within your Package.swift manifest might look like:
 
