@@ -78,7 +78,7 @@ After you have addressed issues uncovered by upcoming feature flags,
 the next step is to [enable complete checking][CompleteChecking] for the module.
 This will turn on all of the compiler's remaining data isolation checks.
 
-[CompleteChecking]: <doc:CompleteChecking>
+[CompleteChecking]: <doc:EnableDataRaceSafety>
 
 ## Address Warnings
 

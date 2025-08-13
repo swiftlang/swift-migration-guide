@@ -69,7 +69,6 @@ For more information, see the [contributing][] document.
 - <doc:DataRaceSafety>
 - <doc:MigrationStrategy>
 - <doc:EnableDataRaceSafety>
-- <doc:CompleteChecking>
 - <doc:CommonProblems>
 - <doc:IncrementalAdoption>
 - <doc:FeatureMigration>
