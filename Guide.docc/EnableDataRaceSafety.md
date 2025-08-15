@@ -1,6 +1,6 @@
-# Enabling The Swift 6 Language Mode
+# Enabling data race safety checking
 
-Guarantee your code is free of data races by enabling the Swift 6 language mode.
+Enable data race safety checking for a new or existing Swift project.
 
 ## Overview
 
