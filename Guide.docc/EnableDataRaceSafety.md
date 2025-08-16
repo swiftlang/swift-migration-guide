@@ -140,11 +140,10 @@ SWIFT_VERSION = 6;
 
 ## Enable data-race safety checking as warnings
 
-With a Swift target or package in Swift 5 language mode, you can address data-race safety issues in your projects on a module-by-module basis.
-Enable the compiler's actor isolation and `Sendable` checking as warnings when using the Swift 5 language mode to assess your progress toward eliminating data races before turning on the Swift 6 language mode.
+With a Swift target or package in a Swift 5 language mode or earlier, you can address data-race safety issues in your projects on a module-by-module basis.
+Enable the compiler's actor isolation and `Sendable` checking as warnings to assess your progress toward eliminating data races before turning on the Swift 6 language mode.
 
-Complete data-race safety checking can be enabled as warnings in the Swift 5
-language mode using the `-strict-concurrency` compiler flag.
+Complete data-race safety checking can be enabled as warnings using the `-strict-concurrency` compiler flag.
 
 ### Checking with Swift packages
 
