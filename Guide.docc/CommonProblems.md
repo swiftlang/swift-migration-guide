@@ -563,7 +563,7 @@ func updateStyle(backgroundColorProvider: @Sendable () -> ColorComponents) async
 }
 ```
 
-Here, it does not matter than `ColorComponents` is not `Sendable`.
+Here, it does not matter that `ColorComponents` is not `Sendable`.
 By using `@Sendable` function that can compute the value, the lack of
 sendability is side-stepped entirely.
 
