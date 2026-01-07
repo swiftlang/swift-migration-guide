@@ -78,3 +78,4 @@ For more information, see the [contributing][] document.
 ### Swift Concurrency in Depth
 
 - <doc:RuntimeBehavior>
+- <doc:ProvidingConcurrencyAPI>
