@@ -1,5 +1,7 @@
 # Migrating to Swift 6
 
+Enable the Swift 6 language mode to eliminate data races at compile time, and adopt it incrementally across your project.
+
 @Metadata {
   @TechnologyRoot
 }
