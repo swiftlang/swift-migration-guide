@@ -2,6 +2,7 @@
 
 @Metadata {
   @TechnologyRoot
+  @TitleHeading("References")
 }
 
 @Options(scope: global) {
