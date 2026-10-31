@@ -82,7 +82,6 @@ let targetSettings: [SwiftSetting] = [
     .enableUpcomingFeature("NonisolatedNonsendingByDefault")
 ]
 
-let targetSettings:
 let package = Package(
     name: "MyPackage",
     products: [
