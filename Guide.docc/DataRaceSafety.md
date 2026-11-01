@@ -598,7 +598,7 @@ This eliminates a common source of deadlocks in concurrent code.
 
 ```swift
 @MainActor
-func stockUp() {
+func stockUp() async {
     // beginning execution on MainActor
     let food = Pineapple()
 
